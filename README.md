@@ -1,4 +1,4 @@
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNtJR4WiB4sNWPu8xoTU6QHjnueshig3wLhA&usqp=CAU)]
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNtJR4WiB4sNWPu8xoTU6QHjnueshig3wLhA&usqp=CAU)](https://example.com)
 <h1 align="center">Hi 👋, I'm Akki Chaudgary</h1>
 <h3 align="center">A passionate frontend/Backend/Blockchain developer from India</h3>
 <img align="right" alt="" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUZvS_3VebRbFCWcv6u4zXknUSOkxVfB2qmg&usqp=CAU">
