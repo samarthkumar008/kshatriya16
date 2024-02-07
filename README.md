@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akki Chaudgary</h1>
 <h3 align="center">A passionate frontend/Backend/Blockchain developer from India</h3>
+<img align="right" alt="" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUZvS_3VebRbFCWcv6u4zXknUSOkxVfB2qmg&usqp=CAU">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kshatriya16&label=Profile%20views&color=0e75b6&style=flat" alt="kshatriya16" /> </p>
 
